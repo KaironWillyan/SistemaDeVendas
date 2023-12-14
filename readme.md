@@ -19,7 +19,7 @@ Sistema de pagamento utilizando C#
 
 ---
 
-##Diagrama do Projeto
+## Diagrama do Projeto
 
 ![Imagem do Projeto](./imagens/kaironAps.png)
 
@@ -69,45 +69,45 @@ dotnet run
 
 Acesse o aplicativo em [http://localhost:5115](http://localhost:5115) ou na porta que aparecer em seu terminal.
 
-##Funcionamento
+## Funcionamento
 
-####Telas:
+#### Telas:
 
-    - Cliente:
+     Cliente:
 ![Imagem tela Cliente](./imagens/clientes.png)
 
-    - Vendedores
+     Vendedores
 
 ![Imagem tela vendedores](./imagens/vendedores.png)
 
-    - Transportadoras
+     Transportadoras
 
 ![Imagem tela transportadoras](./imagens/transportadoras.png)
 
-    - Marcas
+     Marcas
 
 ![Imagem tela marcas](./imagens/marcas.png)
 
-    - Produtos
+     Produtos
 
 ![Imagem tela produtos](./imagens/produtos.png)
 
-    - Itens
+     Itens
 
 ![Imagem tela itens](./imagens/itens.png)
 
-    - Pagamentos com Cartão
+     Pagamentos com Cartão
 
 ![Imagem tela pagamento com cartao](./imagens/pagamento_com_cartao.png)
 
-    - Pagamentos em Cheque
+     Pagamentos em Cheque
 
 ![Imagem tela pagamento emcheque](./imagens/pagamento_com_cheque.png)
 
-    - Notas de Venda
+     Notas de Venda
 
 ![Imagem tela notas de venda](./imagens/notas_de_vendas.png)
 
-    - Pagamentos
+     Pagamentos
 
 ![Imagem tela Pagamentos](./imagens/pagamentos.png)
